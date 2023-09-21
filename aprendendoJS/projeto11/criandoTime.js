@@ -23,7 +23,7 @@ function adicionarJogador() {
     inputNumeroCamisa.name = 'numeroCamisaJogador'
     numeroCamisa.appendChild(inputNumeroCamisa)
     numeroCamisa.appendChild(breake)
-
+"sadadaad"
     const posicaoJogador = document.createElement('li')
     posicaoJogador.innerText = 'Posição do jogador: '
     const inputPosicaoJogador = document.createElement('input')
